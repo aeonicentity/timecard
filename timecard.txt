@@ -1,0 +1,9 @@
+project tracking (preferably through openERP)
+reports in both hours, min, decimal values.
+overtime capability
+bonus capability
+handles vacation time, paid and unpaid
+accumulation and use of vacation.
+deductions, medical expenses.
+Time cards that the USER can edit.
+

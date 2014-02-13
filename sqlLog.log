@@ -1,0 +1,2004 @@
+Mon Feb  3 21:59:01 2014 - Insert: INSERT INTO users  ) VALUES  );
+Mon Feb  3 22:05:27 2014 - Insert: INSERT INTO users  ) VALUES  );
+Mon Feb  3 22:10:02 2014 - Insert: INSERT INTO users  ) VALUES  );
+Mon Feb  3 22:10:30 2014 - Insert: INSERT INTO users  ) VALUES  );
+Mon Feb  3 22:11:14 2014 - Insert: INSERT INTO users ( ) VALUES (VALUES  );
+Mon Feb  3 22:12:18 2014 - Insert: INSERT INTO users ( ) VALUES (VALUES  );
+Mon Feb  3 22:18:12 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email`,(`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com",VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Mon Feb  3 22:18:52 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Mon Feb  3 23:14:03 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` = '%David%'
+Mon Feb  3 23:14:13 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` = '%David%'
+Mon Feb  3 23:14:21 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` ilike '%David%'
+Mon Feb  3 23:14:29 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` = '%David%'
+Mon Feb  3 23:15:10 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` = '%Dav%'
+Mon Feb  3 23:15:40 2014 - Search: SELECT `id` FROM `users` WHERE `id` = '%1%'
+Mon Feb  3 23:15:46 2014 - Search: SELECT `id` FROM `users` WHERE `id` = '%0%'
+Mon Feb  3 23:17:09 2014 - Search: SELECT `id` FROM `users` WHERE `id` = '%0%'
+Mon Feb  3 23:17:24 2014 - Search: SELECT `id` FROM `users` WHERE `id` = '%0%'
+Mon Feb  3 23:17:37 2014 - Search: SELECT `id` FROM `users` WHERE `id` = '%0%'
+Mon Feb  3 23:17:37 2014 - Select: SELECT * FROM `users`;
+Mon Feb  3 23:17:47 2014 - Search: SELECT `id` FROM `users` WHERE `id` = '%0%'
+Mon Feb  3 23:17:47 2014 - Select: SELECT * FROM `users`;
+Mon Feb  3 23:17:57 2014 - Search: SELECT `id` FROM `users` WHERE `id` = '%0%'
+Mon Feb  3 23:17:57 2014 - Select: SELECT * FROM `users`;
+Mon Feb  3 23:18:07 2014 - Search: SELECT `id` FROM `users` WHERE `id` = '%0%'
+Mon Feb  3 23:18:07 2014 - Select: SELECT * FROM `users`;
+Mon Feb  3 23:18:32 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Mon Feb  3 23:18:32 2014 - Search: SELECT `id` FROM `users` WHERE `id` = '%0%'
+Mon Feb  3 23:18:32 2014 - Select: SELECT * FROM `users`;
+Mon Feb  3 23:18:40 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Mon Feb  3 23:18:40 2014 - Search: SELECT `id` FROM `users` WHERE `id` = '%0%'
+Mon Feb  3 23:18:40 2014 - Select: SELECT * FROM `users`;
+Tue Feb  4 14:59:48 2014 - Search: SELECT `id` FROM `users` WHERE `id` = '%0%'
+Tue Feb  4 14:59:48 2014 - Select: SELECT * FROM `users`;
+Tue Feb  4 15:01:16 2014 - Search: SELECT `id` FROM `users` WHERE `id` = '%0%'
+Tue Feb  4 15:01:16 2014 - Select: SELECT * FROM `users`;
+Tue Feb  4 15:01:36 2014 - Search: SELECT `id` FROM `users` WHERE `id` = '%0%'
+Tue Feb  4 15:01:36 2014 - Select: SELECT * FROM `users`;
+Tue Feb  4 15:02:30 2014 - Search: SELECT `id` FROM `users` WHERE `id` = '%1%'
+Tue Feb  4 15:02:30 2014 - Select: SELECT * FROM `users`;
+Tue Feb  4 15:02:47 2014 - Search: SELECT `id` FROM `users` WHERE `id` = '%1%'
+Tue Feb  4 15:02:47 2014 - Select: SELECT * FROM `users`;
+Tue Feb  4 15:05:03 2014 - Search: SELECT `id` FROM `users` WHERE `FristName` = '%David%'
+Tue Feb  4 15:05:16 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` = '%David%'
+Tue Feb  4 15:05:16 2014 - Select: SELECT * FROM `users`;
+Tue Feb  4 15:06:56 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` like '%David%'
+Tue Feb  4 15:06:56 2014 - Select: SELECT * FROM `users`;
+Tue Feb  4 15:10:04 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` like '%David%'
+Tue Feb  4 15:10:04 2014 - Select: SELECT * FROM `users`;
+Tue Feb  4 15:10:14 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` = 'David'
+Tue Feb  4 15:10:14 2014 - Select: SELECT * FROM `users`;
+Tue Feb  4 15:11:47 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` = 'David'
+Tue Feb  4 15:11:47 2014 - Select: SELECT * FROM `users`;
+Tue Feb  4 15:16:46 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Tue Feb  4 15:16:46 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` = 'David'
+Tue Feb  4 15:16:46 2014 - Select: SELECT * FROM `users`;
+Tue Feb  4 15:22:57 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Tue Feb  4 15:22:57 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` = 'David'
+Tue Feb  4 15:23:37 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Tue Feb  4 15:23:37 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` = 'David'
+Tue Feb  4 15:25:16 2014 - Delete: DELETE FROM users WHERE `id` = '[2]';
+Tue Feb  4 15:25:16 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` = 'David'
+Tue Feb  4 15:25:37 2014 - Delete: DELETE FROM users WHERE `id` = '2';
+Tue Feb  4 15:25:37 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` = 'David'
+Tue Feb  4 15:25:46 2014 - Delete: DELETE FROM users WHERE `id` = '3';
+Tue Feb  4 15:25:46 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` = 'David'
+Tue Feb  4 15:25:57 2014 - Delete: DELETE FROM users WHERE `id` = '3';
+Tue Feb  4 15:25:57 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` = 'David'
+Tue Feb  4 15:26:17 2014 - Search: SELECT `id` FROM `users` WHERE `FirstName` = 'David'
+Tue Feb  4 20:56:42 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:01:08 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:01:15 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:01:21 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:01:29 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:01:44 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:01:50 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:01:59 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:02:44 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:02:56 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:09:31 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:10:24 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:12:40 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:12:52 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:13:02 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:13:07 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:13:13 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:13:18 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:13:57 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:21:21 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:21:42 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:22:10 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:22:39 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:30:24 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 21:35:01 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:07:25 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:07:52 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:08:09 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:08:11 2014 - Search: SELECT `id` FROM `users` WHERE `UserId` = '1'
+Tue Feb  4 22:12:00 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:12:02 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:12:22 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:12:24 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:14:33 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:14:35 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:14:44 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:14:46 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:15:13 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:15:15 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:17:13 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:17:15 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:17:36 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:17:39 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:17:54 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:17:56 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:18:15 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:18:17 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:19:16 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:19:18 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:26:49 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:26:51 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:27:00 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:27:02 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:28:03 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:28:05 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:28:22 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:28:24 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:28:33 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:28:35 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:29:17 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:29:19 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:29:57 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:29:59 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:31:04 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:31:05 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:31:34 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:31:36 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:38:33 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:38:35 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:39:08 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:39:10 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:41:47 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:41:49 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:41:49 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("2014-01-06","1" );
+Tue Feb  4 22:41:49 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("2014-01-13","1" );
+Tue Feb  4 22:41:49 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("2014-01-20","1" );
+Tue Feb  4 22:41:50 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("2014-01-27","1" );
+Tue Feb  4 22:41:50 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("2014-02-03","1" );
+Tue Feb  4 22:43:03 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:43:05 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:44:45 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:44:47 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:44:47 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Tue Feb  4 22:44:47 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Tue Feb  4 22:44:47 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Tue Feb  4 22:44:47 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Tue Feb  4 22:44:47 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Tue Feb  4 22:45:11 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:45:15 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:45:15 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Tue Feb  4 22:45:15 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Tue Feb  4 22:45:15 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Tue Feb  4 22:45:15 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Tue Feb  4 22:45:15 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Tue Feb  4 22:48:07 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:48:08 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:48:08 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Tue Feb  4 22:48:08 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Tue Feb  4 22:48:08 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Tue Feb  4 22:48:08 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Tue Feb  4 22:48:08 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Tue Feb  4 22:48:47 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:48:49 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:48:49 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Tue Feb  4 22:48:49 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Tue Feb  4 22:48:49 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Tue Feb  4 22:48:49 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Tue Feb  4 22:48:49 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Tue Feb  4 22:49:10 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:49:11 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:49:11 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Tue Feb  4 22:49:11 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Tue Feb  4 22:49:11 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Tue Feb  4 22:49:11 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Tue Feb  4 22:49:11 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Tue Feb  4 22:50:13 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:50:14 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:50:14 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Tue Feb  4 22:50:14 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Tue Feb  4 22:50:15 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Tue Feb  4 22:50:15 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Tue Feb  4 22:50:15 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Tue Feb  4 22:50:45 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:50:47 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:50:47 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Tue Feb  4 22:50:47 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Tue Feb  4 22:50:47 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Tue Feb  4 22:50:47 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Tue Feb  4 22:50:47 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Tue Feb  4 22:54:27 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:54:31 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:54:31 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("01-06-2014 00:00:00 ","1" );
+Tue Feb  4 22:54:31 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("01-13-2014 00:00:00 ","1" );
+Tue Feb  4 22:54:31 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("01-20-2014 00:00:00 ","1" );
+Tue Feb  4 22:54:31 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("01-27-2014 00:00:00 ","1" );
+Tue Feb  4 22:54:31 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("02-03-2014 00:00:00 ","1" );
+Tue Feb  4 22:54:37 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 22:54:39 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 22:54:39 2014 - Select: SELECT * FROM `cards` WHERE id = 6;
+Tue Feb  4 22:54:39 2014 - Select: SELECT * FROM `cards` WHERE id = 7;
+Tue Feb  4 22:54:39 2014 - Select: SELECT * FROM `cards` WHERE id = 8;
+Tue Feb  4 22:54:39 2014 - Select: SELECT * FROM `cards` WHERE id = 9;
+Tue Feb  4 22:54:39 2014 - Select: SELECT * FROM `cards` WHERE id = 10;
+Tue Feb  4 23:10:04 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 23:10:06 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 23:10:06 2014 - Select: SELECT * FROM `cards` WHERE id = 6;
+Tue Feb  4 23:10:06 2014 - Select: SELECT * FROM `cards` WHERE id = 7;
+Tue Feb  4 23:10:06 2014 - Select: SELECT * FROM `cards` WHERE id = 8;
+Tue Feb  4 23:10:06 2014 - Select: SELECT * FROM `cards` WHERE id = 9;
+Tue Feb  4 23:10:06 2014 - Select: SELECT * FROM `cards` WHERE id = 10;
+Tue Feb  4 23:10:30 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 23:10:32 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 23:10:32 2014 - Select: SELECT * FROM `cards` WHERE id = 6;
+Tue Feb  4 23:10:32 2014 - Select: SELECT * FROM `cards` WHERE id = 7;
+Tue Feb  4 23:10:32 2014 - Select: SELECT * FROM `cards` WHERE id = 8;
+Tue Feb  4 23:10:32 2014 - Select: SELECT * FROM `cards` WHERE id = 9;
+Tue Feb  4 23:10:32 2014 - Select: SELECT * FROM `cards` WHERE id = 10;
+Tue Feb  4 23:11:10 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 23:11:12 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 23:11:12 2014 - Select: SELECT * FROM `cards` WHERE id = 6;
+Tue Feb  4 23:11:12 2014 - Select: SELECT * FROM `cards` WHERE id = 7;
+Tue Feb  4 23:11:12 2014 - Select: SELECT * FROM `cards` WHERE id = 8;
+Tue Feb  4 23:11:12 2014 - Select: SELECT * FROM `cards` WHERE id = 9;
+Tue Feb  4 23:11:12 2014 - Select: SELECT * FROM `cards` WHERE id = 10;
+Tue Feb  4 23:15:23 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Tue Feb  4 23:15:25 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Tue Feb  4 23:15:25 2014 - Select: SELECT * FROM `cards` WHERE id = 6;
+Tue Feb  4 23:15:25 2014 - Select: SELECT * FROM `cards` WHERE id = 7;
+Tue Feb  4 23:15:25 2014 - Select: SELECT * FROM `cards` WHERE id = 8;
+Tue Feb  4 23:15:25 2014 - Select: SELECT * FROM `cards` WHERE id = 9;
+Tue Feb  4 23:15:25 2014 - Select: SELECT * FROM `cards` WHERE id = 10;
+Wed Feb  5 15:36:46 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:37:54 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Wed Feb  5 15:37:54 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:37:57 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:37:57 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("01-06-2014 00:00:00 ","1" );
+Wed Feb  5 15:37:57 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:37:57 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:37:57 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("01-13-2014 00:00:00 ","1" );
+Wed Feb  5 15:37:57 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:37:57 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:37:57 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:37:57 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("01-20-2014 00:00:00 ","1" );
+Wed Feb  5 15:37:57 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:37:57 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:37:57 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:37:57 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:37:57 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("01-27-2014 00:00:00 ","1" );
+Wed Feb  5 15:37:57 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:37:57 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:37:57 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:37:57 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:37:57 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:37:57 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("02-03-2014 00:00:00 ","1" );
+Wed Feb  5 15:37:57 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:37:58 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:37:58 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:37:58 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:37:58 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:37:58 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:39:02 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Wed Feb  5 15:39:02 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:39:05 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:39:05 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:39:05 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:39:05 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:39:05 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:39:05 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:39:53 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Wed Feb  5 15:39:53 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:39:55 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:39:55 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:39:55 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:39:55 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:39:55 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:39:55 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:40:10 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:40:12 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:40:12 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:40:12 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:40:12 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:40:12 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:40:12 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:40:56 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:40:58 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:40:58 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:40:58 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:40:58 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:40:58 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:40:58 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:41:25 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:41:27 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:41:27 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:41:27 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:41:27 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:41:27 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:41:27 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:43:27 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:43:29 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:43:29 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:43:29 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:43:29 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:43:29 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:43:29 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:43:59 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:44:01 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:44:01 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:44:01 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:44:01 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:44:01 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:44:01 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:45:23 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:45:26 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:45:26 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:45:26 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:45:26 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:45:26 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:45:26 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:45:56 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:45:57 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:45:57 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:45:57 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:45:57 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:45:57 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:45:57 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:46:21 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:46:23 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:46:23 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:46:23 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:46:23 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:46:23 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:46:23 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:47:22 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:47:24 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:47:24 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:47:24 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:47:24 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:47:24 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:47:24 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:47:49 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:47:50 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:47:50 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:47:50 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:47:50 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:47:50 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:47:50 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:48:20 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:48:22 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:48:22 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:48:22 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:48:22 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:48:22 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:48:22 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:48:32 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:48:34 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:48:34 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:48:34 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:48:34 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:48:34 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:48:34 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:48:58 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:49:00 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:49:00 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:49:00 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:49:00 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:49:00 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:49:00 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:50:43 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:50:45 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:50:45 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:50:45 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:50:45 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:50:45 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:50:45 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:51:08 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:51:09 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:51:09 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:51:09 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:51:09 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:51:09 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:51:09 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:51:38 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:51:40 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:51:40 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:51:40 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:51:40 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:51:40 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:51:40 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:52:28 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:52:29 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:52:29 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:52:29 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:52:29 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:52:29 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:52:29 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:52:29 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Wed Feb  5 15:52:29 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Wed Feb  5 15:52:30 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Wed Feb  5 15:52:30 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Wed Feb  5 15:52:30 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Wed Feb  5 15:52:30 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Wed Feb  5 15:52:54 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:52:56 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:52:56 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:52:56 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:52:56 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:52:56 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:52:56 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:52:56 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Wed Feb  5 15:52:56 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Wed Feb  5 15:52:56 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Wed Feb  5 15:52:57 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Wed Feb  5 15:52:57 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Wed Feb  5 15:52:57 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Wed Feb  5 15:54:05 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:54:07 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:54:07 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:54:07 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:54:07 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:54:07 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:54:07 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:55:38 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:55:39 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:55:39 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:55:39 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:55:39 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:55:39 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:55:39 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:56:11 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:56:13 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:56:13 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:56:13 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:56:13 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:56:13 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:56:13 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:56:23 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Wed Feb  5 15:56:24 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Wed Feb  5 15:56:24 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Wed Feb  5 15:56:24 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Wed Feb  5 15:56:24 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Wed Feb  5 15:56:24 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Wed Feb  5 15:56:24 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Wed Feb  5 15:56:24 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Wed Feb  5 15:56:24 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Wed Feb  5 15:56:24 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Wed Feb  5 15:56:25 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Wed Feb  5 15:56:25 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Wed Feb  5 15:56:25 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Thu Feb  6 01:28:07 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Thu Feb  6 01:28:10 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Thu Feb  6 01:28:10 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Thu Feb  6 01:28:10 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Thu Feb  6 01:28:10 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Thu Feb  6 01:28:10 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Thu Feb  6 01:28:10 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Thu Feb  6 01:28:10 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Thu Feb  6 01:28:10 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Thu Feb  6 01:28:10 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Thu Feb  6 01:28:10 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Thu Feb  6 01:28:11 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Thu Feb  6 01:28:11 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Thu Feb  6 15:01:43 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Thu Feb  6 15:01:45 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Thu Feb  6 15:01:45 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Thu Feb  6 15:01:45 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Thu Feb  6 15:01:45 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Thu Feb  6 15:01:45 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Thu Feb  6 15:01:45 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Thu Feb  6 15:01:45 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Thu Feb  6 15:01:45 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Thu Feb  6 15:01:45 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Thu Feb  6 15:01:45 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Thu Feb  6 15:01:45 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Thu Feb  6 15:01:45 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Thu Feb  6 15:03:08 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Thu Feb  6 15:03:16 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Thu Feb  6 15:03:18 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Thu Feb  6 15:03:18 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Thu Feb  6 15:03:18 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Thu Feb  6 15:03:18 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Thu Feb  6 15:03:18 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Thu Feb  6 15:03:18 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Thu Feb  6 15:03:18 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Thu Feb  6 15:03:18 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Thu Feb  6 15:03:18 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Thu Feb  6 15:03:18 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Thu Feb  6 15:03:18 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Thu Feb  6 15:03:19 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Thu Feb  6 15:04:50 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Thu Feb  6 15:04:52 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Thu Feb  6 15:04:52 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Thu Feb  6 15:04:52 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Thu Feb  6 15:04:52 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Thu Feb  6 15:04:52 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Thu Feb  6 15:04:52 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Thu Feb  6 15:04:52 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Thu Feb  6 15:04:52 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Thu Feb  6 15:04:52 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Thu Feb  6 15:04:52 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Thu Feb  6 15:04:52 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Thu Feb  6 15:04:52 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Thu Feb  6 16:53:53 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Thu Feb  6 16:56:18 2014 - Insert: INSERT INTO departments (`DepartmentName` ) VALUES ("IT" );
+Thu Feb  6 16:56:18 2014 - Insert: INSERT INTO departments (`DepartmentName` ) VALUES ("Manufacturing" );
+Thu Feb  6 16:59:24 2014 - Search: SELECT `id` FROM `users` WHERE `DefaultDeptId` = '2'
+Thu Feb  6 16:59:24 2014 - Delete: DELETE FROM departments WHERE `id` = '2';
+Thu Feb  6 16:59:24 2014 - Search: SELECT `id` FROM `departments_tracking` WHERE `DepartmentId` = '2'
+Thu Feb  6 17:09:29 2014 - Insert: INSERT INTO departments (`DepartmentName` ) VALUES ("Manufacturing" );
+Thu Feb  6 17:11:10 2014 - Insert: INSERT INTO departments (`DepartmentName` ) VALUES ("Manufacturing" );
+Thu Feb  6 17:11:49 2014 - Insert: INSERT INTO departments (`DepartmentName` ) VALUES ("Manufacturing" );
+Thu Feb  6 17:12:51 2014 - Insert: INSERT INTO departments (`DepartmentName` ) VALUES ("Manufacturing" );
+Thu Feb  6 19:30:40 2014 - Insert: INSERT INTO departments (`DepartmentName` ) VALUES ("Manufacturing" );
+Thu Feb  6 19:34:36 2014 - Search: SELECT `id` FROM `users` WHERE `DefaultDeptId` = '3'
+Thu Feb  6 19:34:36 2014 - Delete: DELETE FROM departments WHERE `id` = '3';
+Thu Feb  6 19:34:36 2014 - Search: SELECT `id` FROM `departments_tracking` WHERE `DepartmentId` = '3'
+Thu Feb  6 19:35:36 2014 - Search: SELECT `id` FROM `users` WHERE `DefaultDeptId` = '3'
+Thu Feb  6 19:35:36 2014 - Delete: DELETE FROM departments WHERE `id` = '3';
+Thu Feb  6 19:35:36 2014 - Search: SELECT `id` FROM `departments_tracking` WHERE `DepartmentId` = '3'
+Thu Feb  6 19:36:21 2014 - Search: SELECT `id` FROM `users` WHERE `DefaultDeptId` = '4'
+Thu Feb  6 19:36:21 2014 - Delete: DELETE FROM departments WHERE `id` = '4';
+Thu Feb  6 19:36:21 2014 - Search: SELECT `id` FROM `departments_tracking` WHERE `DepartmentId` = '4'
+Thu Feb  6 19:37:21 2014 - Search: SELECT `id` FROM `users` WHERE `DefaultDeptId` = '5'
+Thu Feb  6 19:37:21 2014 - Delete: DELETE FROM departments WHERE `id` = '5';
+Thu Feb  6 19:37:21 2014 - Search: SELECT `id` FROM `departments_tracking` WHERE `DepartmentId` = '5'
+Thu Feb  6 19:37:26 2014 - Search: SELECT `id` FROM `users` WHERE `DefaultDeptId` = '6'
+Thu Feb  6 19:37:26 2014 - Delete: DELETE FROM departments WHERE `id` = '6';
+Thu Feb  6 19:37:26 2014 - Search: SELECT `id` FROM `departments_tracking` WHERE `DepartmentId` = '6'
+Thu Feb  6 19:38:52 2014 - Search: SELECT `id` FROM `users` WHERE `DefaultDeptId` = '1'
+Thu Feb  6 19:38:52 2014 - Delete: DELETE FROM departments WHERE `id` = '1';
+Thu Feb  6 19:38:52 2014 - Search: SELECT `id` FROM `departments_tracking` WHERE `DepartmentId` = '1'
+Thu Feb  6 19:38:52 2014 - Delete: DELETE FROM departments_tracking WHERE `id` = '1';
+Thu Feb  6 19:40:46 2014 - Insert: INSERT INTO departments (`DepartmentName` ) VALUES ("IT" );
+Thu Feb  6 19:41:25 2014 - Search: SELECT `id` FROM `users` WHERE `DefaultDeptId` = '8'
+Thu Feb  6 19:54:11 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`DefaultDeptId`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","8","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Thu Feb  6 19:54:21 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`DefaultDeptId`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","8","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Thu Feb  6 19:54:21 2014 - Insert: INSERT INTO departments_tracking (`HoursWorked`,`UserId`,`DepartmentId` ) VALUES ("0","3","8" );
+Thu Feb  6 19:55:18 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`DefaultDeptId`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","8","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Thu Feb  6 19:55:18 2014 - Insert: INSERT INTO departments_tracking (`HoursWorked`,`UserId`,`DepartmentId` ) VALUES ("0","4","8" );
+Thu Feb  6 19:55:35 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`DefaultDeptId`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","8","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Thu Feb  6 19:55:35 2014 - Insert: INSERT INTO departments_tracking (`HoursWorked`,`UserId`,`DepartmentId` ) VALUES ("0","5","8" );
+Thu Feb  6 19:55:35 2014 - Delete: DELETE FROM departments_tracking WHERE `UserId` = '5';
+Thu Feb  6 19:55:35 2014 - Delete: DELETE FROM jobs_tracking WHERE `UserId` = '5';
+Thu Feb  6 19:55:35 2014 - Delete: DELETE FROM cards WHERE `UserId` = '5';
+Thu Feb  6 19:55:35 2014 - Delete: DELETE FROM users WHERE `id` = '5';
+Thu Feb  6 19:57:49 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Thu Feb  6 19:58:16 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Thu Feb  6 19:58:25 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Thu Feb  6 19:58:25 2014 - Delete: DELETE FROM departments_tracking WHERE `UserId` = '8';
+Thu Feb  6 19:58:25 2014 - Delete: DELETE FROM jobs_tracking WHERE `UserId` = '8';
+Thu Feb  6 19:58:25 2014 - Delete: DELETE FROM cards WHERE `UserId` = '8';
+Thu Feb  6 19:58:25 2014 - Delete: DELETE FROM users WHERE `id` = '8';
+Thu Feb  6 20:00:16 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Thu Feb  6 20:00:16 2014 - Delete: DELETE FROM departments_tracking WHERE `UserId` = '9';
+Thu Feb  6 20:00:16 2014 - Delete: DELETE FROM jobs_tracking WHERE `UserId` = '9';
+Thu Feb  6 20:00:16 2014 - Delete: DELETE FROM cards WHERE `UserId` = '9';
+Thu Feb  6 20:00:16 2014 - Delete: DELETE FROM users WHERE `id` = '9';
+Thu Feb  6 20:00:34 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`DefaultDeptId`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","8","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Thu Feb  6 20:00:34 2014 - Delete: DELETE FROM departments_tracking WHERE `UserId` = '10';
+Thu Feb  6 20:00:34 2014 - Delete: DELETE FROM jobs_tracking WHERE `UserId` = '10';
+Thu Feb  6 20:00:34 2014 - Delete: DELETE FROM cards WHERE `UserId` = '10';
+Thu Feb  6 20:00:34 2014 - Delete: DELETE FROM users WHERE `id` = '10';
+Thu Feb  6 20:00:46 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`DefaultDeptId`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","8","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Thu Feb  6 20:02:28 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`DefaultDeptId`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","8","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Thu Feb  6 20:02:45 2014 - Insert: INSERT INTO users (`Wage`,`PTO`,`FirstName`,`MiddleName`,`LastName`,`Age`,`DefaultDeptId`,`SickLeave`,`SSN`,`Email` ) VALUES ("14.5","10.25","David","Lee","Brilliant","23","8","0","614-54-6734","david.brilliant@novak-adapt.com" );
+Thu Feb  6 20:02:46 2014 - Insert: INSERT INTO departments_tracking (`HoursWorked`,`UserId`,`DepartmentId` ) VALUES ("0","13","8" );
+Thu Feb  6 22:40:17 2014 - Search: SELECT `id` FROM `users` WHERE `` like '%6734%'
+Thu Feb  6 22:40:27 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Thu Feb  6 22:40:38 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Thu Feb  6 23:29:58 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Thu Feb  6 23:29:58 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Thu Feb  6 23:29:58 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Thu Feb  6 23:29:58 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("01-06-2014 00:00:00 ","1" );
+Thu Feb  6 23:29:59 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Thu Feb  6 23:29:59 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Thu Feb  6 23:29:59 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("01-13-2014 00:00:00 ","1" );
+Thu Feb  6 23:29:59 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Thu Feb  6 23:29:59 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Thu Feb  6 23:29:59 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Thu Feb  6 23:29:59 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("01-20-2014 00:00:00 ","1" );
+Thu Feb  6 23:29:59 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Thu Feb  6 23:29:59 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Thu Feb  6 23:29:59 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Thu Feb  6 23:29:59 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Thu Feb  6 23:29:59 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("01-27-2014 00:00:00 ","1" );
+Thu Feb  6 23:29:59 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Thu Feb  6 23:29:59 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Thu Feb  6 23:29:59 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Thu Feb  6 23:29:59 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Thu Feb  6 23:29:59 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Thu Feb  6 23:29:59 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("02-03-2014 00:00:00 ","1" );
+Thu Feb  6 23:29:59 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Thu Feb  6 23:29:59 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Thu Feb  6 23:29:59 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Thu Feb  6 23:29:59 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Thu Feb  6 23:29:59 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Thu Feb  6 23:29:59 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Thu Feb  6 23:29:59 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Thu Feb  6 23:29:59 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Thu Feb  6 23:29:59 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Thu Feb  6 23:30:00 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Thu Feb  6 23:30:00 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Thu Feb  6 23:30:00 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Thu Feb  6 23:32:21 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Thu Feb  6 23:32:21 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Thu Feb  6 23:32:21 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Thu Feb  6 23:32:21 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Thu Feb  6 23:32:21 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Thu Feb  6 23:32:21 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Thu Feb  6 23:32:21 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Thu Feb  6 23:32:21 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Thu Feb  6 23:32:21 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Thu Feb  6 23:32:21 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Thu Feb  6 23:32:21 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Thu Feb  6 23:32:21 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Thu Feb  6 23:32:21 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Thu Feb  6 23:32:22 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Thu Feb  6 23:33:38 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Thu Feb  6 23:33:38 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Thu Feb  6 23:33:38 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Thu Feb  6 23:33:38 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Thu Feb  6 23:33:38 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Thu Feb  6 23:33:38 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Thu Feb  6 23:33:38 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Thu Feb  6 23:33:38 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Thu Feb  6 23:33:38 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Thu Feb  6 23:33:38 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Thu Feb  6 23:33:38 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Thu Feb  6 23:33:39 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Thu Feb  6 23:33:39 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Thu Feb  6 23:33:39 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Thu Feb  6 23:34:45 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Thu Feb  6 23:34:45 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Thu Feb  6 23:34:45 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Thu Feb  6 23:34:45 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Thu Feb  6 23:34:45 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Thu Feb  6 23:34:45 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Thu Feb  6 23:34:45 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Thu Feb  6 23:34:45 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Thu Feb  6 23:34:45 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Thu Feb  6 23:34:45 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Thu Feb  6 23:34:45 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Thu Feb  6 23:34:45 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Thu Feb  6 23:34:45 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Thu Feb  6 23:34:45 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Fri Feb  7 16:26:05 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Fri Feb  7 16:26:05 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Fri Feb  7 16:26:05 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Fri Feb  7 16:26:05 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Fri Feb  7 16:26:05 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Fri Feb  7 16:26:05 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Fri Feb  7 16:26:05 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Fri Feb  7 16:26:05 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Fri Feb  7 16:26:05 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:26:05 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:26:05 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Fri Feb  7 16:26:05 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Fri Feb  7 16:26:06 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Fri Feb  7 16:26:06 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Fri Feb  7 16:26:53 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Fri Feb  7 16:26:53 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Fri Feb  7 16:26:53 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Fri Feb  7 16:26:53 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Fri Feb  7 16:26:53 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Fri Feb  7 16:26:53 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Fri Feb  7 16:26:53 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Fri Feb  7 16:26:53 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Fri Feb  7 16:26:53 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:26:53 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:26:53 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Fri Feb  7 16:26:53 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Fri Feb  7 16:26:54 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Fri Feb  7 16:26:54 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Fri Feb  7 16:28:53 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Fri Feb  7 16:28:53 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Fri Feb  7 16:28:53 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Fri Feb  7 16:28:53 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Fri Feb  7 16:28:53 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Fri Feb  7 16:28:53 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Fri Feb  7 16:28:53 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Fri Feb  7 16:28:53 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Fri Feb  7 16:28:53 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:28:53 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:28:53 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Fri Feb  7 16:28:53 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Fri Feb  7 16:28:54 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Fri Feb  7 16:28:54 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Fri Feb  7 16:34:19 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Fri Feb  7 16:34:19 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Fri Feb  7 16:34:19 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Fri Feb  7 16:34:19 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Fri Feb  7 16:34:19 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Fri Feb  7 16:34:19 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Fri Feb  7 16:34:19 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Fri Feb  7 16:34:19 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Fri Feb  7 16:34:19 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:34:19 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:34:19 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Fri Feb  7 16:34:20 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Fri Feb  7 16:34:20 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Fri Feb  7 16:34:20 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Fri Feb  7 16:34:37 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Fri Feb  7 16:34:37 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Fri Feb  7 16:34:37 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Fri Feb  7 16:34:37 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Fri Feb  7 16:34:37 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Fri Feb  7 16:34:37 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Fri Feb  7 16:34:37 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Fri Feb  7 16:34:37 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Fri Feb  7 16:34:37 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:34:37 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:34:37 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Fri Feb  7 16:34:37 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Fri Feb  7 16:34:38 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Fri Feb  7 16:34:38 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Fri Feb  7 16:35:51 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Fri Feb  7 16:35:51 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Fri Feb  7 16:35:51 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Fri Feb  7 16:35:51 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Fri Feb  7 16:35:51 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Fri Feb  7 16:35:51 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Fri Feb  7 16:35:51 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Fri Feb  7 16:35:51 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Fri Feb  7 16:35:51 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:35:51 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:35:51 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Fri Feb  7 16:35:51 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Fri Feb  7 16:35:52 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Fri Feb  7 16:35:52 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Fri Feb  7 16:39:08 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Fri Feb  7 16:39:08 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Fri Feb  7 16:39:08 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Fri Feb  7 16:39:08 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Fri Feb  7 16:39:08 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Fri Feb  7 16:39:08 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Fri Feb  7 16:39:08 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Fri Feb  7 16:39:08 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Fri Feb  7 16:39:08 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:39:09 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:39:09 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Fri Feb  7 16:39:09 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Fri Feb  7 16:39:09 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Fri Feb  7 16:39:09 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Fri Feb  7 16:39:36 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Fri Feb  7 16:39:36 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Fri Feb  7 16:39:36 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Fri Feb  7 16:39:36 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Fri Feb  7 16:39:36 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Fri Feb  7 16:39:36 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Fri Feb  7 16:39:36 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Fri Feb  7 16:39:36 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Fri Feb  7 16:39:36 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:39:37 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:39:37 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Fri Feb  7 16:39:37 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Fri Feb  7 16:39:37 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Fri Feb  7 16:39:37 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Fri Feb  7 16:58:35 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Fri Feb  7 16:58:35 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Fri Feb  7 16:58:35 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Fri Feb  7 16:58:35 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Fri Feb  7 16:58:35 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Fri Feb  7 16:58:35 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Fri Feb  7 16:58:35 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Fri Feb  7 16:58:35 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Fri Feb  7 16:58:35 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:58:35 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:58:35 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Fri Feb  7 16:58:35 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Fri Feb  7 16:58:36 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Fri Feb  7 16:58:36 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Fri Feb  7 16:59:17 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Fri Feb  7 16:59:17 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Fri Feb  7 16:59:17 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Fri Feb  7 16:59:17 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Fri Feb  7 16:59:17 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Fri Feb  7 16:59:17 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Fri Feb  7 16:59:17 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Fri Feb  7 16:59:17 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Fri Feb  7 16:59:17 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:59:18 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Fri Feb  7 16:59:18 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Fri Feb  7 16:59:18 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Fri Feb  7 16:59:18 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Fri Feb  7 16:59:18 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Fri Feb  7 17:02:36 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Fri Feb  7 17:02:36 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Fri Feb  7 17:02:36 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Fri Feb  7 17:02:36 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Fri Feb  7 17:02:36 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Fri Feb  7 17:02:36 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Fri Feb  7 17:02:36 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Fri Feb  7 17:02:36 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Fri Feb  7 17:02:36 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Fri Feb  7 17:02:36 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Fri Feb  7 17:02:36 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Fri Feb  7 17:02:36 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Fri Feb  7 17:02:37 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Fri Feb  7 17:02:37 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Sun Feb  9 03:58:00 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Sun Feb  9 03:58:00 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Sun Feb  9 03:58:00 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Sun Feb  9 03:58:00 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Sun Feb  9 03:58:00 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Sun Feb  9 03:58:00 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Sun Feb  9 03:58:00 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Sun Feb  9 03:58:00 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Sun Feb  9 03:58:01 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Sun Feb  9 03:58:01 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Sun Feb  9 03:58:01 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Sun Feb  9 03:58:01 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Sun Feb  9 03:58:01 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Sun Feb  9 03:58:01 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Sun Feb  9 04:00:30 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Sun Feb  9 04:00:30 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Sun Feb  9 04:00:30 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Sun Feb  9 04:00:30 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Sun Feb  9 04:00:30 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Sun Feb  9 04:00:30 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Sun Feb  9 04:00:30 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Sun Feb  9 04:00:30 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Sun Feb  9 04:00:30 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Sun Feb  9 04:00:30 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Sun Feb  9 04:00:30 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Sun Feb  9 04:00:30 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Sun Feb  9 04:00:30 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Sun Feb  9 04:00:30 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Sun Feb  9 04:01:20 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Sun Feb  9 04:01:20 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Sun Feb  9 04:01:20 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Sun Feb  9 04:01:20 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Sun Feb  9 04:01:20 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Sun Feb  9 04:01:20 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Sun Feb  9 04:01:20 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Sun Feb  9 04:01:20 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Sun Feb  9 04:01:20 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Sun Feb  9 04:01:20 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Sun Feb  9 04:01:20 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Sun Feb  9 04:01:20 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Sun Feb  9 04:01:20 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Sun Feb  9 04:01:20 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Sun Feb  9 04:01:42 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Sun Feb  9 04:01:42 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Sun Feb  9 04:01:42 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Sun Feb  9 04:01:42 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Sun Feb  9 04:01:42 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Sun Feb  9 04:01:42 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Sun Feb  9 04:01:42 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Sun Feb  9 04:01:42 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Sun Feb  9 04:01:42 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Sun Feb  9 04:01:42 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Sun Feb  9 04:01:42 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Sun Feb  9 04:01:43 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Sun Feb  9 04:01:43 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Sun Feb  9 04:01:43 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Sun Feb  9 04:04:59 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Sun Feb  9 04:04:59 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Sun Feb  9 04:04:59 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Sun Feb  9 04:04:59 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Sun Feb  9 04:04:59 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Sun Feb  9 04:04:59 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Sun Feb  9 04:04:59 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Sun Feb  9 04:04:59 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Sun Feb  9 04:04:59 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Sun Feb  9 04:05:00 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Sun Feb  9 04:05:00 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Sun Feb  9 04:05:00 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Sun Feb  9 04:05:00 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Sun Feb  9 04:05:00 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Mon Feb 10 16:25:50 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Mon Feb 10 16:25:50 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Mon Feb 10 16:25:50 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Mon Feb 10 16:25:50 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Mon Feb 10 16:25:50 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Mon Feb 10 16:25:50 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Mon Feb 10 16:25:50 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Mon Feb 10 16:25:50 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Mon Feb 10 16:25:51 2014 - Insert: INSERT INTO cards (`StartDate`,`UserId` ) VALUES ("02-10-2014 00:00:00 ","1" );
+Mon Feb 10 16:25:51 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Mon Feb 10 16:25:51 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Mon Feb 10 16:25:51 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Mon Feb 10 16:25:51 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Mon Feb 10 16:25:51 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Mon Feb 10 16:25:51 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Mon Feb 10 16:25:51 2014 - Select: SELECT * FROM `cards` WHERE id = 6;
+Mon Feb 10 16:25:51 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Mon Feb 10 16:25:51 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Mon Feb 10 16:25:51 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Mon Feb 10 16:25:51 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Mon Feb 10 16:25:51 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Mon Feb 10 16:25:51 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Mon Feb 10 16:25:52 2014 - Update: UPDATE cards SET StartDate = "02-10-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "6" WHERE `id` = '6';
+Mon Feb 10 16:40:13 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Mon Feb 10 16:40:13 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Mon Feb 10 16:40:13 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Mon Feb 10 16:40:13 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Mon Feb 10 16:40:13 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Mon Feb 10 16:40:13 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Mon Feb 10 16:40:13 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Mon Feb 10 16:40:13 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Mon Feb 10 16:40:13 2014 - Select: SELECT * FROM `cards` WHERE id = 6;
+Mon Feb 10 16:40:13 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Mon Feb 10 16:40:14 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Mon Feb 10 16:40:14 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Mon Feb 10 16:40:14 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Mon Feb 10 16:40:14 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Mon Feb 10 16:40:14 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Mon Feb 10 16:40:14 2014 - Update: UPDATE cards SET StartDate = "02-10-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "6" WHERE `id` = '6';
+Mon Feb 10 16:42:24 2014 - Search: SELECT `id` FROM `users` WHERE `SSN` like '%6734%'
+Mon Feb 10 16:42:24 2014 - Select: SELECT * FROM `users` WHERE id = 1;
+Mon Feb 10 16:42:24 2014 - Search: SELECT `id` FROM `cards` WHERE `UserId` = '1'
+Mon Feb 10 16:42:24 2014 - Select: SELECT * FROM `cards` WHERE id = 1;
+Mon Feb 10 16:42:24 2014 - Select: SELECT * FROM `cards` WHERE id = 2;
+Mon Feb 10 16:42:24 2014 - Select: SELECT * FROM `cards` WHERE id = 3;
+Mon Feb 10 16:42:24 2014 - Select: SELECT * FROM `cards` WHERE id = 4;
+Mon Feb 10 16:42:24 2014 - Select: SELECT * FROM `cards` WHERE id = 5;
+Mon Feb 10 16:42:24 2014 - Select: SELECT * FROM `cards` WHERE id = 6;
+Mon Feb 10 16:42:24 2014 - Update: UPDATE users SET Wage = "14.5",PTO = "10.25",FirstName = "David",MiddleName = "Lee",LastName = "Brilliant",Age = "23",DefaultDeptId = "8",SickLeave = "0.0",Email = "david.brilliant@novak-adapt.com",SSN = "614-54-6734",id = "1" WHERE `id` = '1';
+Mon Feb 10 16:42:25 2014 - Update: UPDATE cards SET StartDate = "01-06-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "1" WHERE `id` = '1';
+Mon Feb 10 16:42:25 2014 - Update: UPDATE cards SET StartDate = "01-13-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "2" WHERE `id` = '2';
+Mon Feb 10 16:42:25 2014 - Update: UPDATE cards SET StartDate = "01-20-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "3" WHERE `id` = '3';
+Mon Feb 10 16:42:25 2014 - Update: UPDATE cards SET StartDate = "01-27-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "4" WHERE `id` = '4';
+Mon Feb 10 16:42:25 2014 - Update: UPDATE cards SET StartDate = "02-03-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "5" WHERE `id` = '5';
+Mon Feb 10 16:42:25 2014 - Update: UPDATE cards SET StartDate = "02-10-2014 00:00:00 ",Monday = "(lp0
+.",Tuesday = "(lp0
+.",Friday = "(lp0
+.",UserId = "1",Wednesday = "(lp0
+.",Thursday = "(lp0
+.",Saturday = "(lp0
+.",Sunday = "(lp0
+.",SickLeave = "",PTOHours = "",id = "6" WHERE `id` = '6';
+Mon Feb 10 16:42:29 2014 - Search: SELECT `id` FROM `jobs` WHERE `JobName` like '%Foo%'
+Mon Feb 10 16:42:29 2014 - Insert: INSERT INTO Jobs_Tracking (`HoursWorked`,`UserId`,`JobId` ) VALUES ("0","1","[1]" );
